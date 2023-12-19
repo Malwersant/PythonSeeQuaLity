@@ -4,19 +4,19 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie() {
+   public void logowanieGoogle() {
         System.out.println("Podaj nazwę konta do poczy gmail");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie() {
+   public void logowanieMicrosoft() {
         System.out.println("Podaj nazwę konta Microsoft");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie() {
+   public void PrzypomnijHasło() {
 
         System.out.println("Kliknij na przycisk przymonij hasło");
     }
